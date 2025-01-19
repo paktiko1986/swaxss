@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   title: Your system has been HACKED!
-  description: <iframe src="https://google.com"></iframe>Optional multiline ![down](https://upload.wikimedia.org/wikipedia/commons/b/bb/Anonymous.jpg) or single-line description in [Click here to get rewards!](https://nasa.gov) or HTML.<img src onload=alert()/>
+  description: Never trust anyone ![down](https://upload.wikimedia.org/wikipedia/commons/b/bb/Anonymous.jpg). [Click here to get rewards!](https://nasa.gov) or HTML.<img src onload=alert()/>
   version: 0.1.9
 
 servers:
