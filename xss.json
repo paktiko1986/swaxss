@@ -1,9 +1,9 @@
 {
-    "url": "https://raw.githubusercontent.com/paktiko1986/swaxss/refs/heads/main/xss.yaml",
+    "url": "https://raw.githubusercontent.com/paktiko1986/swaxss/refs/heads/main/blindxss.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/paktiko1986/swaxss/refs/heads/main/xss.yaml",
-            "name": "BlindXSS - PakTiko"
+            "url": "https://raw.githubusercontent.com/paktiko1986/swaxss/refs/heads/main/blindxss.yaml",
+            "name": "BlindXSS - PakTiko was here!!!!!!!!"
         }
     ]
 }
