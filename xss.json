@@ -1,9 +1,9 @@
 {
-    "url": "https://jumpy-floor.surge.sh/test.yaml",
+    "url": "https://raw.githubusercontent.com/paktiko1986/swaxss/refs/heads/main/xss.yaml",
     "urls": [
         {
-            "url": "https://jumpy-floor.surge.sh/test.yaml",
-            "name": "Foo"
+            "url": "https://raw.githubusercontent.com/paktiko1986/swaxss/refs/heads/main/xss.yaml",
+            "name": "BlindXSS - PakTiko"
         }
     ]
 }
