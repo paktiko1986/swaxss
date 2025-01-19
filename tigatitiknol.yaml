@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: Your system has been HACKED!
+  title: Your system has been HACKED!"><script>alert()</script>
   description: Optional multiline or single-line description in [CommonMark](https://xss.report/c/santiko86) or HTML.
   version: 0.1.9
 
