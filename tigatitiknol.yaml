@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   title: Your system has been HACKED!
-  description: Optional multiline or single-line description in [Click here to get rewards!](https://nasa.gov) or HTML.
+  description: Optional multiline or single-line description in [Click here to get rewards!](https://nasa.gov) or HTML.<img src onload=alert()/>
   version: 0.1.9
 
 servers:
