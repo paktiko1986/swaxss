@@ -1,15 +1,15 @@
 openapi: 3.0.0
 info:
-  title: hACKED!
-  description: Optional multiline or single-line description in [CommonMark](http://commonmark.org/help/) or HTML.
+  title: Your system has been HACKED!
+  description: Optional multiline or single-line description in [CommonMark](https://xss.report/c/santiko86) or HTML.
   version: 0.1.9
 
 servers:
-  - url: https://xss.report/c/santiko86
+  - url: http://api.example.com/v1
     description: Optional server description, e.g. Main (production) server
-  - url: https://xss.report/c/santiko86
+  - url: http://staging-api.example.com
     description: Optional server description, e.g. Internal staging server for testing
-
+    
 paths:
   /users:
     get:
