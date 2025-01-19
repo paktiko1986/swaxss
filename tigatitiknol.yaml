@@ -1,13 +1,13 @@
 openapi: 3.0.0
 info:
   title: Your system has been HACKED!
-  description: Optional multiline or single-line description in [CommonMark](https://xss.report/c/santiko86) or HTML.
+  description: Optional multiline or single-line description in [CommonMark](https://paktiko1986.github.io/testxss/) or HTML.
   version: 0.1.9
 
 servers:
-  - url: http://api.example.com/v1
+  - url: https://paktiko1986.github.io/testxss/
     description: Optional server description, e.g. Main (production) server
-  - url: http://staging-api.example.com
+  - url: https://paktiko1986.github.io/testxss/
     description: Optional server description, e.g. Internal staging server for testing
     
 paths:
